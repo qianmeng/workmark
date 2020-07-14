@@ -1,0 +1,35 @@
+pages:
+ # key is the dirname of pages in src/pages
+ home:
+  # 首页配置
+  zh-cn:
+   title: '工作印记'
+   keywords: '工作记录，博客，兴趣爱好'
+   description: '作者日常工作过程中的经验分析，尤其IT行业相关技术经验，包括各类技术栈，管理知识等'
+  # home config
+  en-us:
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'
+ community:
+  # 社区页配置
+  zh-cn:
+   title: '社区生态'
+   keywords: '社区，生态体系'
+   description: '主要是技术社区，技术论坛，讨论一些技术分享，技术问题及交流兴趣爱好，自有发挥'
+  # community page config
+  en-us:
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'
+ blog:
+  # 博客列表页配置
+  zh-cn:
+   title: '精彩美文'
+   keywords: '博客，美文'
+   description: '记录日常工作过程中的技术问题，管理经验等等'
+  en-us:
+   # blog list page config
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'
